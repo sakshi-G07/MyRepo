@@ -1,6 +1,7 @@
 //this junit test code for calculator
 
 
+
 class calculatorTest {
 
 	@Test
@@ -12,3 +13,4 @@ class calculatorTest {
 	}
 
 }
+//run as junit test case
