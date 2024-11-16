@@ -1,0 +1,11 @@
+class calculatorTest {
+
+	@Test
+	void test() {
+		calculator c1=new calculator();
+		c1.setNum1(20);
+		c1.setNum2(5);
+		assertEquals(24,c1.add());
+	}
+
+}
